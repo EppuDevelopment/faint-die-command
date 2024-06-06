@@ -1,8 +1,8 @@
-# faint-die-command
+## faint-die-command
 Simple /Faint &amp; /Die command 
 
-# dependencies
+## dependencies
  * OX-Lib
 
-## preview
+## Showcase 
 * https://streamable.com/9dmrbj
